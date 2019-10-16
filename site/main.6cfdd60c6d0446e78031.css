@@ -13919,6 +13919,7 @@ table td:last-child,table th:last-child {
 }
 .orderbooktd {
   cursor : pointer !important;
+  color: #000000;
 }
 
 .loader {
